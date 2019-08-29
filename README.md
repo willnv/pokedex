@@ -1,16 +1,6 @@
-# pokedex
+# Pokédex
 
-A new Flutter project.
+A Pokédex created using the Flutter framework along with Dart. [PokéApi](https://pokeapi.co/) is the main source of data.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Design
+Based on Daniel Motta's Pokédex iOS app, which can be found [here](https://www.behance.net/gallery/69337385/Pokedex-App) and [here](https://dribbble.com/shots/4862612-Pokedex-iOS-app?utm_source=Clipboard_Shot&utm_campaign=DanielMots&utm_content=Pokedex%20iOS%20app&utm_medium=Social_Share).
